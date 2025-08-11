@@ -1,5 +1,5 @@
 # whoami
-A human, whom disposed to programming, hardware, networking, mathematics and music. Working hard and loving his profession.
+A human, whom is disposed to programming, hardware, networking, mathematics and music. Working hard and loving his profession.
 Putting crazy hours on self-teaching. Capable of learning most things by himself. Fast learner. Loves low-level programming. Hacks anything which is hackable.
 
 # Q&A
