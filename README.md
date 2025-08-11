@@ -10,6 +10,6 @@ Q: Earlier, you said "GITHUB SUCKS" and you've been using [Codeberg](https://cod
 A: Sadly, Iran's government blocked the access to Codeberg, thus I switched to GitHub because it's less likely for it to get blocked. I still have my SourceHut account btw.
 
 Q: Where can I find your resume?
-A: [Here](https://mkoushan.github.io)
+A: [Here](https://mkoushan.github.io/mkoushan/RESUME)
 
 
