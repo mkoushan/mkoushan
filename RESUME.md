@@ -70,11 +70,9 @@ _**Dr. Bashiri**_ - ``Teaching Asistant / C/C++``
 
 ---
 
-#### Research assistant in the field of static analysis of programs <sup>2023 - 2024</sup>
+#### Research assistant in the field of WCET analysis <sup>2023 - 2024</sup>
 
-> I learned cross-compiling and measuring basic blocks of programs at low-level. Worked with gem5 simulator.
-
-_**Dr. Sakhaei-nia**_ - ``Embedded System / Complier / RISCV / Gem5 / Linux / ASM / C``
+_**Dr. Sakhaei-nia**_ - ``Real-Time Embedded System / Complier / RISCV Processor / Gem5 / Linux / ASM / C``
 
 ---
 
