@@ -84,8 +84,6 @@ _**SUT ICPC**_ - ``C/C++ / Algorithm``
 
 #### Teaching assistant for Discrete Mathematics course <sup>2023 - 2024</sup>
 
-I've been running and maintaining Call of Duty Black Ops 2, Call of Duty Modern Warfare 1,2,3, Call of Duty World at War, Minecraft servers. I also did moding and plugin making.
-
 _**Dr. Davari**_ - ``Teaching Assistant / Discrete Mathematic``
 
 ---
